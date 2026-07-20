@@ -9,3 +9,21 @@
 	<Var exclude="0" ID="1315"/>
 	<Var exclude="0" ID="1648"/>
 </VarList>
+
+<!-- 
+Each variable is applied to every item.
+If the variable isn't applicable it won't be exported in the XML
+
+|==========================================================|
+| ID   | LongName      | Short Description                 |
+| ==== | ============= | ==================================|
+| 559  | SideFinisH    | Shows finished side configuration |
+| 563  | CATalogNAMe   | Shows the catalog name            |
+| 577  | NumPointsINSt | Shows installation point count    |
+| 663  | FinishPREMium | Shows finish premium status       |
+| 1045 | VOLume        | Shows the item volume             |
+| 1046 | WeiGHT        | Shows the item weight             |
+| 1315 | WoodPREMium   | Shows wood premium status         |
+| 1648 | OtherLINK     | Shows external reference data     |
+|==========================================================|
+-->
