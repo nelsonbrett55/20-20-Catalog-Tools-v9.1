@@ -12,7 +12,7 @@
 
 <!-- 
 Each variable is applied to every item.
-If the variable isn't applicable it won't be exported in the XML
+If a variable is not applicable, it will not be exported in the XML.
 
 |==========================================================|
 | ID   | LongName      | Short Description                 |
